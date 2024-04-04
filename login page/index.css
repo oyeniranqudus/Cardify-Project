@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.allinputs{
+    width: 45%;
+    margin: auto;
+    padding-top: 2em;
+}
+.allinputs .inputs p{
+    font-size: 15px;
+    font-weight: 550;
+    line-height: 25px;
+}
+.allinputs .inputs .google a{
+    text-decoration: none;
+    color: black;
+    padding: 18px 180px 18px 180px;
+    border: thin solid rgba(128, 128, 128, 0.23);
+    border-radius: 1em;
+}
+.allinputs .inputs form #input1{
+    border: thin solid rgba(128, 128, 128, 0.23);
+    padding: 18px 350px 18px 15px;
+    border-radius: 0.3em;
+}
+.allinputs .inputs form #input2{
+    border: thin solid rgba(128, 128, 128, 0.23);
+    padding: 18px 350px 18px 15px;
+    border-radius: 0.3em;
+}
+.allinputs .inputs form button{
+    border: 0;
+    padding: 20px 50px 20px 50px;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(24,152,29);
+}
+.allinputs .inputs #p1 span a{
+    font-size: 15px;
+    font-weight: 100;
+    text-decoration: none;
+    color: rgb(24,152,29);
+}
+.allinputs .inputs #p2 span a{
+    font-size: 15px;
+    font-weight: 100;
+    text-decoration: none;
+    color: rgb(24,152,29);
+}
+
